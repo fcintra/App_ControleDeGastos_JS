@@ -2,6 +2,8 @@
 
 App de orçamento pessoal, onde é possível cadastrar uma nova despesa, consultar e até mesmo exclui-la.
 
+Para o desenvolvimento deste app foi utilizado Html, Css, JavaScript. Framework utilizada: BootStrap.
+
 # Tela inicial - Cadastro de despesa:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/84300004/128222404-25d2fc05-5f9d-4e49-9109-07ef6c6edfe4.png" width="700px" />
